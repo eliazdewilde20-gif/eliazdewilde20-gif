@@ -5,7 +5,24 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=print(%22Hello+World%22);console.log(%22Hello+World%22);System.out.println(%22Hello+World%22);fmt.Println(%22Hello+World%22);cout+%3C%3C+%22Hello+World%22;puts+%22Hello+World%22" />
+```text
+_nnnn_
+        dGGGGMMb
+       @p~qp~~qMb
+       M|@||@) M|
+       @,----.JM|
+      JS^\__/  qKL
+     dZP        qKRb
+    dZP          qKKb
+   fZP            SMMb
+   HZM            MMMM
+   FqM            MMMM
+ __| ".        |\dS"qML
+ |    `.       | `' \Zq
+_)      \.___.,|     .'
+\____   )MMMMMP|   .'
+     `-'       `--' hjm
+```
 
 <br/>
 
