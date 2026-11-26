@@ -1,29 +1,12 @@
+<p align="center">
+  <img src="assets/code-editor.gif" alt="Code Editor, animated ASCII art" width="660">
+</p>
 
-<div align="center">
+<h1 align="center"></h1>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:000000&height=2&section=header" width="100%">
+<p align="center">
+  <img src="https://img.shields.io/github/license/you/my-project" alt="License">
+  <img src="https://img.shields.io/github/stars/you/my-project" alt="Stars">
+</p>
 
-<br/>
-
-         _nnnn_
-        dGGGGMMb
-       @p~qp~~qMb
-       M|@||@) M|
-       @,----.JM|
-      JS^\__/  qKL
-     dZP        qKRb
-    dZP          qKKb
-   fZP            SMMb
-   HZM            MMMM
-   FqM            MMMM
- __| ".        |\dS"qML
- |    `.       | `' \Zq
-_)      \.___.,|     .'
-\____   )MMMMMP|   .'
-     `-'       `--' 
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff41&height=2&section=footer" width="100%">
-
-</div>
+<p align="center"></p>
