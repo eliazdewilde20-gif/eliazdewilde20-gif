@@ -1,12 +1,5 @@
-<p align="center">
-  <img src="assets/code-editor.gif" alt="Code Editor, animated ASCII art" width="660">
-</p>
+<div align="center">
 
-<h1 align="center"></h1>
+<img src="./assets/code-editor-dark.gif" width="100%">
 
-<p align="center">
-  <img src="https://img.shields.io/github/license/you/my-project" alt="License">
-  <img src="https://img.shields.io/github/stars/you/my-project" alt="Stars">
-</p>
-
-<p align="center"></p>
+</div>
