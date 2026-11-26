@@ -1,5 +1,5 @@
 <div align="center">
 
-<img src="./assets/computer-lab-terminals-dark.gif" width="100%">
+<img src="./assets/code-editor-dark.gif" width="100%">
 
 </div>
