@@ -5,8 +5,7 @@
 
 <br/>
 
-```text
-_nnnn_
+         _nnnn_
         dGGGGMMb
        @p~qp~~qMb
        M|@||@) M|
@@ -21,8 +20,7 @@ _nnnn_
  |    `.       | `' \Zq
 _)      \.___.,|     .'
 \____   )MMMMMP|   .'
-     `-'       `--' hjm
-```
+     `-'       `--' 
 
 <br/>
 
